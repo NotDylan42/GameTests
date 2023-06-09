@@ -4,7 +4,7 @@ class sideScroller
 {
     static void Main()
     {
-        Console.WriteLine("Welcome to Infinite Mario!");
+        Console.WriteLine("Welcome to Test!");
 
         while (true)
         {
@@ -15,7 +15,7 @@ class sideScroller
                 break;
         }
 
-        Console.WriteLine("Thank you for playing Infinite Mario!");
+        Console.WriteLine("Thank you for playing Test!");
     }
 
     static void PlayGame()
